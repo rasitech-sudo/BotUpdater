@@ -1,3 +1,3 @@
 @echo off
-msg * Anda Sudah Versi Terbaru
+echo Anda Sudah Versi Terbaru
 pause
